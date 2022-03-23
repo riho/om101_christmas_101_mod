@@ -1,0 +1,24 @@
+{
+	"head": {
+		"male": {
+			"mod_christmas_101_snowperson": {
+				"y": 19,
+				"color_replace": {
+					"DFB797FF": "CDCDCDFF",
+					"CFA77FFF": "9CB7B7FF",
+					"A0795EFF": "6C9999FF"
+				}
+			}
+		},
+		"female": {
+			"mod_christmas_101_snowperson": {
+				"y": 18,
+				"color_replace": {
+					"E8B890FF": "CDCDCDFF",
+					"CFA77FFF": "9CB7B7FF",
+					"A0795EFF": "6C9999FF"
+				}
+			}
+		}
+	}
+}

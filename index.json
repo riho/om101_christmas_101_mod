@@ -1,0 +1,15 @@
+{
+	"name": "Christmas 101",
+	"description": "Adds a snowperson head to the game",
+	"logo": "",
+	"cover_image": "",
+	"version": "1.0",
+	"date": "2022-03-23",
+	"author": "tulevik.EU",
+	"game_name": "Office Management 101",
+	"game_version": "0.5.17_alpha",
+	"game_version_code": 1545,
+	"min_game_version_code": 1545,
+	"affects_savegames": false,
+	"requires_asset_reload": false
+}
